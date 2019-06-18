@@ -1,0 +1,5 @@
+[mysqlDB]
+hostName = "localhost"
+userName="root",
+passwdName="manish@12345",
+databaseName="feclive"
